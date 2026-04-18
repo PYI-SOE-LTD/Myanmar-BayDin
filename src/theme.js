@@ -1,0 +1,35 @@
+// ─── Design Tokens ─────────────────────────────────────────────────────────────
+export const C = {
+  bg:          '#fdf6ee',
+  bgCard:      '#ffffff',
+  bgAlt:       '#faf3e8',
+  border:      '#e8ddd0',
+  borderSoft:  '#f0e8e0',
+  primary:     '#c8824a',
+  primaryHov:  '#b5703a',
+  primaryGrad: 'linear-gradient(135deg, #c8824a, #e8a870)',
+  gold:        '#e8c87a',
+  purple:      '#7b5ea7',
+  purpleGrad:  'linear-gradient(135deg, #7b5ea7, #b07cc8)',
+  text:        '#3a2e26',
+  textMid:     '#7a6a60',
+  textSoft:    '#a08878',
+  textFaint:   '#b0a090',
+  upper:       '#d4edda',
+  upperText:   '#2d6a4f',
+  lower:       '#fff3cd',
+  lowerText:   '#856404',
+  danger:      '#f8d7da',
+  dangerText:  '#842029',
+  warn:        '#fff3cd',
+  warnText:    '#664d03',
+  shadow:      '0 2px 12px rgba(180,140,100,0.10)',
+  shadowMd:    '0 4px 24px rgba(180,140,100,0.14)',
+};
+
+export const F = {
+  serif: "'Playfair Display', Georgia, serif",
+  sans:  "'Lato', system-ui, sans-serif",
+  mm:    "'Pyidaungsu', 'Myanmar Text', 'Padauk', sans-serif",
+  mono:  "ui-monospace, 'Cascadia Code', monospace",
+};
