@@ -16,6 +16,8 @@
 
 <video src="public/MM_BayDin.mp4" controls width="100%"></video>
 
+> 📥 [Download / Watch Demo Video](https://github.com/PYI-SOE-LTD/Myanmar-BayDin/raw/main/public/MM_BayDin.mp4)
+
 ---
 
 ## Features
@@ -90,7 +92,7 @@ Or: **Actions** → **Deploy to GitHub Pages** → **Run workflow**
 ## Reference
 
 All calculations follow traditional methodology documented in:
-- `Mahabote_astrology_reference4.md` — 22-section complete Myanmar astrology reference
+- 📖 [Mahabote Astrology Reference](https://github.com/PYI-SOE-LTD/Myanmar-BayDin/blob/main/public/Mahabote_astrology_reference5.md) — 22-section complete Myanmar astrology reference
 - `graha_riding_guide.md` — Graha Riding full guide with +3 mod 7 formula
 
 Sources: Myanmar Wikipedia · SharingKnowledges · CompuBaydaThukhuma · MyKyawZaya Blog
